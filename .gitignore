@@ -1,0 +1,11 @@
+data/
+outputs/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.pdf
+*.jsonl

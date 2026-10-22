@@ -1,0 +1,37 @@
+{
+  "verified_date": "2026-10-22",
+  "scope": "one FIREBALL combat and one CRD3 episode; engineering diagnostics only",
+  "FIREBALL": {
+    "raw_events": 342,
+    "triples": 25,
+    "same_interaction_id_pass": 25,
+    "command_log_after_result_count": 25,
+    "human_noncommand_messages": 53
+  },
+  "CRD3": {
+    "episode": "C1E001",
+    "turns": 2160,
+    "utterance_segments": 4693,
+    "multi_name_turns": 13
+  },
+  "visibility": {
+    "samples": 25,
+    "private_numeric_hp_retained": 25,
+    "noncontroller_sample_occurrences": 20,
+    "upstream_public_numeric_hp": 0,
+    "boundary_tests": 75,
+    "boundary_tests_passed": 75,
+    "gpu_calls": 0,
+    "model_calls": 0,
+    "paid_api_calls": 0
+  },
+  "independent_checker": {
+    "rows_checked": 25,
+    "current_action_injection_rejected": true
+  },
+  "migration": {
+    "schema_counts_match_original": true,
+    "visibility_counts_match_original": true,
+    "verified_source_files": 12
+  }
+}

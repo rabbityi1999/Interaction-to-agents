@@ -1,0 +1,112 @@
+[
+  {
+    "file": "FIREBALL/README.md",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL/git/blobs/35c79c2644f93d8f8fdb9ad66b94bcb04bbfe5b9",
+    "source_url": "https://github.com/zhudotexe/FIREBALL/blob/02a040bdfc9de5c7da271ca7faad56be090669ba/README.md",
+    "revision": "02a040bdfc9de5c7da271ca7faad56be090669ba",
+    "git_blob_sha": "35c79c2644f93d8f8fdb9ad66b94bcb04bbfe5b9",
+    "bytes": 6952,
+    "sha256": "b448070d3e90c85342daf88b4c5baf9423c372d371b6249dcec8f160caf6ac67",
+    "retrieved_utc": "2026-10-21T01:07:14.599364+00:00"
+  },
+  {
+    "file": "FIREBALL/LICENSE",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL/git/blobs/10fabd90118f7ce38bb2e4753e105e744442a429",
+    "source_url": "https://github.com/zhudotexe/FIREBALL/blob/02a040bdfc9de5c7da271ca7faad56be090669ba/LICENSE",
+    "revision": "02a040bdfc9de5c7da271ca7faad56be090669ba",
+    "git_blob_sha": "10fabd90118f7ce38bb2e4753e105e744442a429",
+    "bytes": 18658,
+    "sha256": "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f",
+    "retrieved_utc": "2026-10-21T01:07:15.304134+00:00"
+  },
+  {
+    "file": "FIREBALL/raw.jsonl",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL/git/blobs/10c3f94b686be59d6f5a3f3a3cccdef0d1b40c7a",
+    "source_url": "https://github.com/zhudotexe/FIREBALL/blob/02a040bdfc9de5c7da271ca7faad56be090669ba/raw.jsonl",
+    "revision": "02a040bdfc9de5c7da271ca7faad56be090669ba",
+    "git_blob_sha": "10c3f94b686be59d6f5a3f3a3cccdef0d1b40c7a",
+    "bytes": 1267100,
+    "sha256": "34517e18ef2a57922d019bd414dd5533f1c7a694ac0b9d971602e9308162500b",
+    "retrieved_utc": "2026-10-21T01:07:16.593412+00:00"
+  },
+  {
+    "file": "FIREBALL/filtered_triples.jsonl",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL/git/blobs/b51c52277be2451d4802022cb9dd22fd8ff18dec",
+    "source_url": "https://github.com/zhudotexe/FIREBALL/blob/02a040bdfc9de5c7da271ca7faad56be090669ba/filtered_triples.jsonl",
+    "revision": "02a040bdfc9de5c7da271ca7faad56be090669ba",
+    "git_blob_sha": "b51c52277be2451d4802022cb9dd22fd8ff18dec",
+    "bytes": 372339,
+    "sha256": "d045d789385cfc6cd06b383a8b9c87d19d974e0771558060922c55a8c3237e1c",
+    "retrieved_utc": "2026-10-21T01:07:17.588628+00:00"
+  },
+  {
+    "file": "CRD3/README.md",
+    "url": "https://api.github.com/repos/RevanthRameshkumar/CRD3/git/blobs/398efed4c68f7e49b6b0cedbd94463f7d84e8a75",
+    "source_url": "https://github.com/RevanthRameshkumar/CRD3/blob/7fd4515eea411f0f9c5d0a03a8b6b8b2da464e81/README.md",
+    "revision": "7fd4515eea411f0f9c5d0a03a8b6b8b2da464e81",
+    "git_blob_sha": "398efed4c68f7e49b6b0cedbd94463f7d84e8a75",
+    "bytes": 7212,
+    "sha256": "3a704ceceba10f5247ee4ccdfc6b2d896c929a6c85b5eea6eb131ecc20ad0504",
+    "retrieved_utc": "2026-10-21T01:07:19.262164+00:00"
+  },
+  {
+    "file": "CRD3/LICENSE",
+    "url": "https://api.github.com/repos/RevanthRameshkumar/CRD3/git/blobs/33bec29d5181dfd57411f387bf7a0e60da1946d7",
+    "source_url": "https://github.com/RevanthRameshkumar/CRD3/blob/7fd4515eea411f0f9c5d0a03a8b6b8b2da464e81/LICENSE",
+    "revision": "7fd4515eea411f0f9c5d0a03a8b6b8b2da464e81",
+    "git_blob_sha": "33bec29d5181dfd57411f387bf7a0e60da1946d7",
+    "bytes": 20130,
+    "sha256": "da89f9867822be4b8adb1e601d9e9226c195016c6508015eb7593e68ead0c98a",
+    "retrieved_utc": "2026-10-21T01:07:19.937938+00:00"
+  },
+  {
+    "file": "CRD3/C1E001.json",
+    "url": "https://api.github.com/repos/RevanthRameshkumar/CRD3/git/blobs/edc798cf46c83f4c445f77a868025cbf22a9850b",
+    "source_url": "https://github.com/RevanthRameshkumar/CRD3/blob/7fd4515eea411f0f9c5d0a03a8b6b8b2da464e81/data/cleaned%20data/C1E001.json",
+    "revision": "7fd4515eea411f0f9c5d0a03a8b6b8b2da464e81",
+    "git_blob_sha": "edc798cf46c83f4c445f77a868025cbf22a9850b",
+    "bytes": 601532,
+    "sha256": "148d080e1746e2592e1b23f7087b4ef1fd2e7676a79c9e8cc92a30b65a574a37",
+    "retrieved_utc": "2026-10-21T01:07:21.046074+00:00"
+  },
+  {
+    "file": "sources/distill4_normalize.py",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL-data-processing/git/blobs/86ee8a8ec5d3556c0f85025045dd2736f01bfc85",
+    "revision": "b3f9b5eca6dbbe1b7504c14dcbc055687bd4c7b4",
+    "sha256": "72ffd2f3b84f5ec153a8332a97d53de87fe2859cd896f17905d78c57ab60e680",
+    "bytes": 22556,
+    "git_blob_sha": "86ee8a8ec5d3556c0f85025045dd2736f01bfc85"
+  },
+  {
+    "file": "sources/finetune_prep.py",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL-data-processing/git/blobs/edb006a3539e4df72dabed59293f7e09b3da9a0b",
+    "revision": "b3f9b5eca6dbbe1b7504c14dcbc055687bd4c7b4",
+    "sha256": "9f1866c2e53f68d76d0f36c4a57050881604644310f155a299cfe8ec7516ee73",
+    "bytes": 9148,
+    "git_blob_sha": "edb006a3539e4df72dabed59293f7e09b3da9a0b"
+  },
+  {
+    "file": "sources/.gitmodules",
+    "url": "https://api.github.com/repos/zhudotexe/FIREBALL-data-processing/git/blobs/e6a4f9bac53690a4ed4ca3248ddb4968244cfba3",
+    "revision": "b3f9b5eca6dbbe1b7504c14dcbc055687bd4c7b4",
+    "sha256": "77e7f5c8832403d4aee2bd2ced6e4f540598f4f87e361d3d4ce64ccfb219cc1a",
+    "bytes": 76,
+    "git_blob_sha": "e6a4f9bac53690a4ed4ca3248ddb4968244cfba3"
+  },
+  {
+    "file": "sources/avrae_cogs5e_initiative_combatant.py",
+    "url": "https://api.github.com/repos/avrae/avrae/git/blobs/2a30f8d52286f46b6450ba7cde5615c14b2adc4c",
+    "revision": "e1e361d73b8fc6dad0ed7633eb354a71b069daaa",
+    "sha256": "e907a57bf1873f0f0924ca1be92eae338894852a01ef4ba4f4eb4d392d451576",
+    "bytes": 28024,
+    "git_blob_sha": "2a30f8d52286f46b6450ba7cde5615c14b2adc4c"
+  },
+  {
+    "file": "sources/avrae_cogs5e_initiative_combatant_builders.py",
+    "url": "https://api.github.com/repos/avrae/avrae/git/blobs/3e9c0cf7bb36dcde895091766ff9823f1a329229",
+    "revision": "e1e361d73b8fc6dad0ed7633eb354a71b069daaa",
+    "sha256": "99dddd93918c78092db284645ef12ef36ff88781b72abf4753bfd313e9fc6e45",
+    "bytes": 6614,
+    "git_blob_sha": "3e9c0cf7bb36dcde895091766ff9823f1a329229"
+  }
+]
